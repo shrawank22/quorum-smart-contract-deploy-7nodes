@@ -18,5 +18,4 @@
    
 **Output**
 
-
-![plot](/home/shrawan/Pictures/Screenshots/Screenshot from 2023-03-17 22-44-00.png)
+![Screenshot from 2023-03-17 22-44-00](https://user-images.githubusercontent.com/53372247/225980454-d6d3d926-a5db-45c2-80b2-3b9b3fd712ca.png)
